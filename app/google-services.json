@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "714728333489",
+    "firebase_url": "https://itinerary-12207.firebaseio.com",
+    "project_id": "itinerary-12207",
+    "storage_bucket": "itinerary-12207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714728333489:android:234c9a2672115eaf",
+        "android_client_info": {
+          "package_name": "com.example.mchoy.finalprojectmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714728333489-j3fgc6lidikv6gh9dbngoutq8aa6hdg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mchoy.finalprojectmobileapp",
+            "certificate_hash": "e8bdd37db521640cfa4d9742a0dd2a0c0982ff14"
+          }
+        },
+        {
+          "client_id": "714728333489-ja134mjeadvogk8h54hjhsmdvekpl283.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcuaafHfNs0CCm0RkkFlorfuq1YLmFxM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714728333489-ja134mjeadvogk8h54hjhsmdvekpl283.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
